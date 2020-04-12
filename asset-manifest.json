@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/shippment/static/css/main.45478587.chunk.css",
+    "main.js": "/shippment/static/js/main.59ab9ad6.chunk.js",
+    "main.js.map": "/shippment/static/js/main.59ab9ad6.chunk.js.map",
+    "runtime-main.js": "/shippment/static/js/runtime-main.b0769ed8.js",
+    "runtime-main.js.map": "/shippment/static/js/runtime-main.b0769ed8.js.map",
+    "static/js/2.d0615c8d.chunk.js": "/shippment/static/js/2.d0615c8d.chunk.js",
+    "static/js/2.d0615c8d.chunk.js.map": "/shippment/static/js/2.d0615c8d.chunk.js.map",
+    "index.html": "/shippment/index.html",
+    "precache-manifest.eafea344598bac6c8884e4fa5c18cf03.js": "/shippment/precache-manifest.eafea344598bac6c8884e4fa5c18cf03.js",
+    "service-worker.js": "/shippment/service-worker.js",
+    "static/css/main.45478587.chunk.css.map": "/shippment/static/css/main.45478587.chunk.css.map",
+    "static/js/2.d0615c8d.chunk.js.LICENSE.txt": "/shippment/static/js/2.d0615c8d.chunk.js.LICENSE.txt",
+    "static/media/agency.a5ae13ed.svg": "/shippment/static/media/agency.a5ae13ed.svg",
+    "static/media/airplane.5aa87089.svg": "/shippment/static/media/airplane.5aa87089.svg",
+    "static/media/cargo.734a854f.svg": "/shippment/static/media/cargo.734a854f.svg",
+    "static/media/cargo1.jpg": "/shippment/static/media/cargo1.79f3703d.jpg",
+    "static/media/cargo2.jpg": "/shippment/static/media/cargo2.6a2bebbd.jpg",
+    "static/media/facebook.5df289e0.svg": "/shippment/static/media/facebook.5df289e0.svg",
+    "static/media/hero-1.jpg": "/shippment/static/media/hero-1.eb6013b5.jpg",
+    "static/media/knowledge.jpg": "/shippment/static/media/knowledge.361e4e8c.jpg",
+    "static/media/leadership.jpg": "/shippment/static/media/leadership.98378562.jpg",
+    "static/media/logo-dark.cba6b7f4.svg": "/shippment/static/media/logo-dark.cba6b7f4.svg",
+    "static/media/logo-light.691941b5.svg": "/shippment/static/media/logo-light.691941b5.svg",
+    "static/media/logo-phantom.8a166b58.svg": "/shippment/static/media/logo-phantom.8a166b58.svg",
+    "static/media/map.5caca7f4.svg": "/shippment/static/media/map.5caca7f4.svg",
+    "static/media/pricing.jpg": "/shippment/static/media/pricing.f5d9061f.jpg",
+    "static/media/seaship.b63f5dfb.svg": "/shippment/static/media/seaship.b63f5dfb.svg",
+    "static/media/truck.e9012e38.svg": "/shippment/static/media/truck.e9012e38.svg",
+    "static/media/twitter.0729c42a.svg": "/shippment/static/media/twitter.0729c42a.svg",
+    "static/media/youtube.687c5721.svg": "/shippment/static/media/youtube.687c5721.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0769ed8.js",
+    "static/js/2.d0615c8d.chunk.js",
+    "static/css/main.45478587.chunk.css",
+    "static/js/main.59ab9ad6.chunk.js"
+  ]
+}
